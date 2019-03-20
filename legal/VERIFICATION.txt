@@ -1,0 +1,11 @@
+﻿
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+Download release from github, unzip files without the root directory and compare checksum:
+https://github.com/vuori/weasel-pageant/releases
+
+I decided to include binaries so the unzipped filed will end up in a predictable location.
+Releases from this repo contain a versioned directory when unzipped, so upgrading would
+brake links to the WSL binary which is not shimmed
