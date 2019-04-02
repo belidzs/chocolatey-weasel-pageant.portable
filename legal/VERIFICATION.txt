@@ -1,0 +1,7 @@
+﻿
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+Download release from github, unzip files without the root directory and compare checksum:
+https://github.com/vuori/weasel-pageant/releases
