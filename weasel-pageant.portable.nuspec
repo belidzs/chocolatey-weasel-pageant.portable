@@ -48,7 +48,7 @@ feature shipped with that version. It has been verified to work with versions
 up to and including 1809 ("October 2018 Update").</description>
     <summary>weasel-pageant</summary>
     <releaseNotes>https://github.com/vuori/weasel-pageant/releases</releaseNotes>
-    <copyright>(C) 2009-2014 Josh Stone</copyright>
+    <copyright>Copyright 2017-2019 Valtteri Vuorikoski and contributors</copyright>
     <tags>weasel-pageant pageant putty ssh wsl</tags>
     <projectSourceUrl>https://github.com/vuori/weasel-pageant</projectSourceUrl>
     <packageSourceUrl>https://github.com/belidzs/chocolatey-weasel-pageant.portable</packageSourceUrl>
