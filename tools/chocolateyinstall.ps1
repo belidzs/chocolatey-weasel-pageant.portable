@@ -1,0 +1,1 @@
+﻿If ([int](Get-WmiObject Win32_OperatingSystem).BuildNumber -lt 15063)  {throw "This software requires at least Windows 10 Creators Update (1703) to work properly"}
